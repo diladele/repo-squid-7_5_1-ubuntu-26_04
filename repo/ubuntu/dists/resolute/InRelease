@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: resolute
+Date: Sun, 26 Apr 2026 17:19:32 UTC
+Architectures: amd64
+Components: main
+Description: Diladele B.V. Online Repository for Squid 7.5 for Ubuntu 26.04 LTS
+MD5Sum:
+ 9e4741f5bc4da6d3dcd6a35a176856a5 5418 main/binary-amd64/Packages
+ 959c3f92dbb23772e08ed1c1be777eef 2262 main/binary-amd64/Packages.gz
+ fbe76d0d50eb4659bf72967a46ccfcdc 116 main/binary-amd64/Release
+SHA1:
+ e7096c538fa3a3fa1028c234268fe1797b4d3313 5418 main/binary-amd64/Packages
+ 1d42129edd9639804b759e8a8e299b19935d80a7 2262 main/binary-amd64/Packages.gz
+ 9b2123c41ddd3929a5a56df52b50baf719ecda75 116 main/binary-amd64/Release
+SHA256:
+ 96e2f3b3c6661b0ce20b350615616f0cd91759af6fbf3502477f1cfda32a4c1e 5418 main/binary-amd64/Packages
+ a8cc7635c8ae8cc9f83cae5afe7bccf2f1d9b8e2514e1acac3c67a3517d9c495 2262 main/binary-amd64/Packages.gz
+ 774f68da14490f24a026f39d92172ff0cebb10f65ad01cd19d33e98ed77cfc81 116 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETo8CvGkyCi5LkzC5m8XrZVp68N4FAmnuSSQACgkQm8XrZVp6
+8N5dww/6Aptu3pf6iApQeYPvYdyL4YVXx5eo0Yta9X4v82oKqcJmFHvVDRpx9mKQ
+gOvMiHGxjQLKO6XJKOeMMvYr9Wu+0XSFzU54iX0IFRQf8kpCjJh2Mlz8MVZCl/55
++/rOd1IJ12cfudG1VSJNBkyup+Rd1qVyFp1crbqKbemlordPTajZom73S71z7Xf5
+dfHnksp1XLSPbeuaSVW3tViaXUwDtL35RjaTHjSha8bl8UAmoO4H+Ve/ZjwxZwOd
++xgK6rEc6D8so82MlQ5uKtL9xO5SyZiL/o9BLU2Cyu6RD0pjyq7hW8CeI3c9hnEn
+BHcVIslzlKZCtA6gCwWnewo5SvgRyxDrFr/pxAXge2Xwala9Jw5PmgJE7GT9EgPZ
+1qnk+xCM3mVOVPa0rJjI70HNB3GVUh7ezVW3G0OHlK42JkMe3RgsNqhmiu2W9QVg
+cBB6O9vA2kDJnY1xWvtVlGqpB6xWCSIfTXrgDWNWT9h0yixuXTiRRlGCCd2emqw2
+Z1Z+H9p0O/7JG8fSFiiX4MFs47MXHGEp8X2egQaxxC3YPD/98kQtn/2+KrtJfZWT
+JYCiElITBtmAYdG+xD8WlgW63OE2mMzLLxXetGvAoQ81rEIWS7PgzBJ/PftEktaN
+r7v8VEuWmtzGxBs9ZIOR4oQDzMmBcbsw59w0jdQSlp1z5MacFAg=
+=pf/F
+-----END PGP SIGNATURE-----

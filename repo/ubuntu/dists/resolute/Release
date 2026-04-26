@@ -1,0 +1,17 @@
+Codename: resolute
+Date: Sun, 26 Apr 2026 17:19:32 UTC
+Architectures: amd64
+Components: main
+Description: Diladele B.V. Online Repository for Squid 7.5 for Ubuntu 26.04 LTS
+MD5Sum:
+ 9e4741f5bc4da6d3dcd6a35a176856a5 5418 main/binary-amd64/Packages
+ 959c3f92dbb23772e08ed1c1be777eef 2262 main/binary-amd64/Packages.gz
+ fbe76d0d50eb4659bf72967a46ccfcdc 116 main/binary-amd64/Release
+SHA1:
+ e7096c538fa3a3fa1028c234268fe1797b4d3313 5418 main/binary-amd64/Packages
+ 1d42129edd9639804b759e8a8e299b19935d80a7 2262 main/binary-amd64/Packages.gz
+ 9b2123c41ddd3929a5a56df52b50baf719ecda75 116 main/binary-amd64/Release
+SHA256:
+ 96e2f3b3c6661b0ce20b350615616f0cd91759af6fbf3502477f1cfda32a4c1e 5418 main/binary-amd64/Packages
+ a8cc7635c8ae8cc9f83cae5afe7bccf2f1d9b8e2514e1acac3c67a3517d9c495 2262 main/binary-amd64/Packages.gz
+ 774f68da14490f24a026f39d92172ff0cebb10f65ad01cd19d33e98ed77cfc81 116 main/binary-amd64/Release
